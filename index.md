@@ -1,8 +1,10 @@
 ---
 layout: home
-title: "Inthepiepline"
-description: "You play with the cards you're dealt."
+title: "Lintism"
+description: "Lintism is the religion of Zipangeath."
 ---
 
-## Contents
-* [Commegresh](https://inthepiepline.github.io/commegresh/){:target="_blank" rel="noopener"}
+## Dogma
+* Living in Truth.
+* Time cannot be reversed, absolutely.
+* True perfection has to be imperfect.
