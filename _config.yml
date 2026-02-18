@@ -4,3 +4,4 @@ description: "Lintism is the religion of Zipangeath."
 theme: minima
 header_pages:
   - index.md
+favicon_path: "/images/favicon.png"
